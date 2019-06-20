@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15281" started-at="2019-06-19T07:43:37Z" finished-at="2019-06-19T07:43:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15281" started-at="2019-06-19T07:43:37Z" finished-at="2019-06-19T07:43:52Z">
+      <class name="com.test1.CaseStudy">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test1.CaseStudy@5e3a8624]" name="beforeClass" is-config="true" duration-ms="6875" started-at="2019-06-19T07:43:37Z" finished-at="2019-06-19T07:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testRegistration()[pri:1, instance:com.test1.CaseStudy@5e3a8624]" name="testRegistration" duration-ms="2378" started-at="2019-06-19T07:43:44Z" finished-at="2019-06-19T07:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:com.test1.CaseStudy@5e3a8624]" name="testLogin" duration-ms="433" started-at="2019-06-19T07:43:46Z" finished-at="2019-06-19T07:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:com.test1.CaseStudy@5e3a8624]" name="testCart" duration-ms="1107" started-at="2019-06-19T07:43:47Z" finished-at="2019-06-19T07:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:com.test1.CaseStudy@5e3a8624]" name="testPayment" duration-ms="4452" started-at="2019-06-19T07:43:48Z" finished-at="2019-06-19T07:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="endReportAfterTest()[pri:0, instance:com.test1.CaseStudy@5e3a8624]" name="endReportAfterTest" is-config="true" duration-ms="0" started-at="2019-06-19T07:43:52Z" finished-at="2019-06-19T07:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReportAfterTest -->
+      </class> <!-- com.test1.CaseStudy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
